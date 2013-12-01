@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/bin/tf_daemon:system/bin/tf_daemon \
     vendor/lge/p880/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/lge/p880/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
-    vendor/lge/p880/proprietary/lib/hw/lights.x3.so:system/lib/hw/lights.x3.so \
+    vendor/lge/p880/proprietary/lib/hw/lights.tegra.so:system/lib/hw/lights.tegra.so \
     vendor/lge/p880/proprietary/lib/hw/sensors.tegra.so:system/lib/hw/sensors.tegra.so \
     vendor/lge/p880/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
     vendor/lge/p880/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
@@ -101,5 +101,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/p880/proprietary/lib/libnvaudioservice.so:system/lib/libnvaudioservice.so \
     vendor/lge/p880/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
-    vendor/lge/p880/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
-    vendor/lge/p880/proprietary/lib/lgejpeg.so:system/lib/lgejpeg.so
+    vendor/lge/p880/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so
