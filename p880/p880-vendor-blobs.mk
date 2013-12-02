@@ -91,9 +91,16 @@ PRODUCT_COPY_FILES += \
     hardware/broadcom/wlan/bcmdhd/firmware/bcm4330/fw_bcm4330_abg.bin:system/etc/firmware/fw_bcmdhd.bin \
     hardware/broadcom/wlan/bcmdhd/firmware/bcm4330/fw_bcm4330_apsta_bg.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/p880/proprietary/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd:system/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd \
-	vendor/lge/p880/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
-	vendor/lge/p880/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
-	vendor/lge/p880/proprietary/lib/soundfx/libdolbysurroundeffect.so:system/lib/soundfx/libdolbysurroundeffect.so \
+    vendor/lge/p880/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
+    vendor/lge/p880/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libdolbysurroundeffect.so:system/lib/soundfx/libdolbysurroundeffect.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libcyanogen-dsp.so:system/lib/soundfx/libcyanogen-dsp.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libldnhncr.so:system/lib/soundfx/libldnhncr.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
     vendor/lge/p880/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/lge/p880/proprietary/lib/egl/libEGL_tegra_impl.so:system/lib/egl/libEGL_tegra_impl.so \
     vendor/lge/p880/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
