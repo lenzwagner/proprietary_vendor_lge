@@ -91,7 +91,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd:system/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd \
     vendor/lge/p880/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
     vendor/lge/p880/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
+    vendor/lge/p880/proprietary/lib/libSR_AudioIn.so:system/lib/libSR_AudioIn.so \
+    vendor/lge/p880/proprietary/lib/libsrsprocessing.so:system/lib/libsrsprocessing.so \
     vendor/lge/p880/proprietary/lib/soundfx/libdolbysurroundeffect.so:system/lib/soundfx/libdolbysurroundeffect.so \
+    vendor/lge/p880/proprietary/lib/soundfx/libsrsfx.so:system/lib/soundfx/libsrsfx.so \
     vendor/lge/p880/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
     vendor/lge/p880/proprietary/lib/soundfx/libcyanogen-dsp.so:system/lib/soundfx/libcyanogen-dsp.so \
     vendor/lge/p880/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
