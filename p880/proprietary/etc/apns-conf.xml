@@ -4895,4 +4895,81 @@
       mmsport="3128"
       type="mms"
   />
+  
+  <apn carrier="ERONET START"
+	  mcc="218"
+	  mnc="03" 
+	  apn="gprs.eronet.ba" 
+	  type="default,supl"
+  />
+	  
+  <apn carrier="ERONET MI 50" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="web.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET MI 200" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="web.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET 512" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="data1.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET 1GB" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="data4.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET 4GB" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="data2.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET FLAT" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="data3.eronet.ba" 
+	  type="supl"
+  />
+
+  <apn carrier="ERONET MMS" 
+	  mcc="218" 
+	  mnc="03" 
+	  apn="mms.eronet.ba" 
+	  mmsc="http://mms.gprs.eronet.ba/mms/wapenc" 
+	  mmsproxy="010.012.003.001" 
+	  mmsport="8080" 
+	  type="mms"
+  />
+
+  <apn carrier="BH Mobile" 
+	  mcc="218" 
+	  mnc="90" 
+	  apn="active.bhmobile.ba" 
+	  type="default,supl" 
+  />
+
+  <apn carrier="BH Mobile MMS" 
+	  mcc="218" 
+	  mnc="90" 
+	  apn="mms.bhmobile.ba" 
+	  mmsc="http://mms.bhmobile.ba/cmmsc/post" 
+	  mmsproxy="195.222.056.041" 
+	  mmsport="8080" 
+	  type="mms" 
+  />
+  
 </apns>
