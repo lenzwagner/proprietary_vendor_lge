@@ -104,5 +104,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/lib/libnvcamerahdr.so:system/lib/libnvcamerahdr.so \
     vendor/lge/p880/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/p880/proprietary/lib/libnvaudioservice.so:system/lib/libnvaudioservice.so \
+    vendor/lge/p880/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
     vendor/lge/p880/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/lge/p880/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so
