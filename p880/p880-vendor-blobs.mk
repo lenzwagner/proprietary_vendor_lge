@@ -116,6 +116,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/lib/hw/grallob.tegra.so:system/lib/hw/grallob.tegra.so \
     vendor/lge/p880/proprietary/vendor/lib/libardrv_dynamic_so:system/vendor/lib/libardrv_dynamic_so \
     vendor/lge/p880/proprietary/vendor/lib/libcgdrv_so:system/vendor/lib/libcgdrv_so \
+    vendor/lge/p880/proprietary/vendor/lib/libjpeg_so:system/vendor/lib/libjpeg_so \
     vendor/lge/p880/proprietary/vendor/lib/libnvavp_so:system/vendor/lib/libnvavp_so \
     vendor/lge/p880/proprietary/vendor/lib/libnvcapclk_so:system/vendor/lib/libnvcapclk_so \
     vendor/lge/p880/proprietary/vendor/lib/libnvcap_so:system/vendor/lib/libnvcap_so \
