@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/bin/lgdrmserver:system/bin/lgdrmserver \
     vendor/lge/p880/proprietary/bin/lgsecclkserver:system/bin/lgsecclkserver \
     vendor/lge/p880/proprietary/bin/nvcpud:system/bin/nvcpud \
-    vendor/lge/p880/proprietary/bin/rild:system/bin/rild \
     vendor/lge/p880/proprietary/bin/tf_daemon:system/bin/tf_daemon \
     vendor/lge/p880/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/lge/p880/proprietary/lib/hw/lights.tegra.so:system/lib/hw/lights.tegra.so \
