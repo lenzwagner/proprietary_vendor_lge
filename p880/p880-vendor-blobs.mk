@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/lib/libini.so:system/lib/libini.so \
     vendor/lge/p880/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/p880/proprietary/lib/libnvomx.so:system/lib/libnvomx.so \
-    vendor/lge/p880/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/lge/p880/proprietary/lib/libnvodm_imager.so:system/lib/libnvodm_imager.so \
     vendor/lge/p880/proprietary/lib/libnvodm_query.so:system/lib/libnvodm_query.so \
     vendor/lge/p880/proprietary/lib/libnvmm_contentpipe.so:system/lib/libnvmm_contentpipe.so \
