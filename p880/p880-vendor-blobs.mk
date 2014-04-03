@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/bin/lgdrmserver:system/bin/lgdrmserver \
     vendor/lge/p880/proprietary/bin/lgsecclkserver:system/bin/lgsecclkserver \
     vendor/lge/p880/proprietary/bin/nvcpud:system/bin/nvcpud \
+    vendor/lge/p880/proprietary/bin/rild:system/bin/rild \
     vendor/lge/p880/proprietary/bin/tf_daemon:system/bin/tf_daemon \
     vendor/lge/p880/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/lge/p880/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
