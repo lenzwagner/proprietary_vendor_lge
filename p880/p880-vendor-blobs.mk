@@ -92,7 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/etc/firmware/nvavp_os_eff00000.bin:system/etc/firmware/nvavp_os_eff00000.bin \
     vendor/lge/p880/proprietary/etc/firmware/nvavp_vid_ucode.bin:system/etc/firmware/nvavp_vid_ucode.bin \
     vendor/lge/p880/proprietary/etc/firmware/nvavp_vid_ucode_alt.bin:system/etc/firmware/nvavp_vid_ucode_alt.bin \
-    vendor/lge/p880/proprietary/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd:system/etc/firmware/BCM4330B1_002.001.003.0550.0633.hcd \
     vendor/lge/p880/proprietary/lib/libddp_omx.so:system/lib/libddp_omx.so \
     vendor/lge/p880/proprietary/lib/libstagefright_soft_ddpdec.so:system/lib/libstagefright_soft_ddpdec.so \
     vendor/lge/p880/proprietary/lib/libSR_AudioIn.so:system/lib/libSR_AudioIn.so \
